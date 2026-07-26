@@ -35,7 +35,7 @@ To solve this problem, an interactive Business Performance & Profit Optimization
 
 > **Interactive Business Performance & Profit Optimization Dashboard**
 
-![Dashboard Preview](Screenshots/Dashboard.jepg)
+![Dashboard Preview](Screenshots/Dashboard.jpeg)
 
 ---
 
